@@ -1,4 +1,6 @@
-# Technical Notes on Office Demand Forecasting Model
+# Office Demand Forecasting Model
+
+Time series model for forecasting the demand of office properties in Hong Kong.
 
 ## A. Overview
 **Objective**: To build forecasting model on office demand
